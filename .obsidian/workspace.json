@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac7312fc04742510",
+        "id": "07d542ebae018045",
         "type": "tabs",
         "children": [
           {
-            "id": "0b27867d155f319b",
+            "id": "ebdac0cc9245776a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,19 +216,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0b27867d155f319b",
+  "active": "ebdac0cc9245776a",
   "lastOpenFiles": [
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
     "Notas Diárias/2025-01-25.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
+    "Notas Diárias/2025-01-24.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/TODO/Enquetes.md",
     "Excalidraw/Fluxo de ideias.md",
     "Templates/Daily Note.md",
     "Untitled Kanban.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw",
-    "Notas Diárias/2025-01-24.md",
     "Biblioteca/Ferramentas e Metodologias/Métodologias/CI-CD.md",
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/TODO/Enquetes.md",
     "Estudo/Lives/Dez-24/Construindo um Pipeline ETL em Tempo Real com Kafka, PostgreSQL e Streamlit.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Streamlit.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Postgres.md",

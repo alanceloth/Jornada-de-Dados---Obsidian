@@ -7,5 +7,7 @@
 - Como eu uso o método [[Zettelkasten]] no meu dia a dia
 - Importância dos links, backlinks, tags, referencias
 
+[Link Apresentação pptx](https://gamma.app/docs/Apresentacao-Metodos-de-organizacao-de-ideias-e-projetos-fe2y2iccxh627aq)
+
 [[Lives Youtube]]
 [[Fluxo de ideias]]
