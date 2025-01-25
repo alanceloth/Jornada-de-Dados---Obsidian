@@ -21,12 +21,12 @@ tags: [daily, zettelkasten, <% tp.date.now("YYYY-MM-DD") %>]
 - **Ideia 2:** Descrição breve da ideia. [[Outra ideia relacionada]]
 
 ## 🧠 **Notas e Reflexões**
-- **Nota 1:** Detalhes sobre algo que você leu, estudou ou pensou hoje.
-- **Nota 2:** Outra observação importante.
+- Detalhes sobre algo que você leu, estudou ou pensou hoje.
+- Outra observação importante.
 
 ## 📚 **Leituras e Referências**
-- **Livro/Artigo 1:** Breve resumo ou citação.
-- **Livro/Artigo 2:** Breve resumo ou citação.
+- **Breve resumo ou citação.
+- Breve resumo ou citação.
 
 ## 🌟 **Reflexão do Dia**
 - **O que aprendi hoje?**
@@ -47,8 +47,8 @@ tags: [daily, zettelkasten, <% tp.date.now("YYYY-MM-DD") %>]
   - [[Nota Importante 2]]
 
 ## 🛠️ **Ferramentas e Recursos Utilizados**
-- **Ferramenta 1:** Como foi usada hoje.
-- **Ferramenta 2:** Como foi usada hoje.
+- Como foi usada hoje.
+- Como foi usada hoje.
 
 ## 📈 **Progresso e Metas**
 - **Meta de Longo Prazo:** Status ou progresso.

@@ -1,8 +1,8 @@
 1. Qual a principal ferramenta que você utiliza para organizar seus projetos e ideias?
-- Aplicativos de notas (ex.: Evernote, OneNote)
-- Ferramentas de gerenciamento de projetos (ex.: Trello, Asana)
-- Planilhas (ex.: Excel, Google Sheets)
-- Mapas mentais
+- Aplicativos de notas (ex.: [[Evernote]], [[OneNote]], [[Notion]])
+- Ferramentas de gerenciamento de projetos (ex.: [[Trello]], [[Asana]])
+- Planilhas (ex.: [[Excel]], [[Google Sheets]])
+- [[Mapas mentais]]
 - Método analógico (cadernos, planners)
 
 2. Com que frequência você revisa e atualiza suas anotações e planejamentos de projetos?
@@ -33,9 +33,9 @@
 - Às vezes, dependendo do projeto
 - Não, organizo manualmente
 
-7. Você utiliza algum método específico para gestão de ideias, como o Zettelkasten?
-- Sim, utilizo o método Zettelkasten
-- Sim, utilizo o método GTD (Getting Things Done)
-- Sim, utilizo o Bullet Journal
-- Sim, utilizo Mapas Mentais
+7. Você utiliza algum método específico para gestão de ideias, como o [[Zettelkasten]]?
+- Sim, utilizo o método [[Zettelkasten]]
+- Sim, utilizo o método [[GTD (Getting Things Done)]]
+- Sim, utilizo o [[Bullet Journal]]
+- Sim, utilizo [[Mapas mentais]]
 - Não utilizo nenhum método específico
