@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "LiTemplaterIcon",
+      "LiHandshake",
+      "LiTrophy",
+      "LiCalendarDays"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,15 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Biblioteca": "LiLibraryBig",
+  "Estudo": "LiCode",
+  "Estudo/Bootcamps": "LiTent",
+  "Estudo/Lives": "LiVideo",
+  "Estudo/Workshop": "LiRocket",
+  "Monitoria": "LiGraduationCap",
+  "Notas Diárias": "LiCalendarDays",
+  "Portifólio": "LiTrophy",
+  "Reuniões": "LiHandshake",
+  "Templates": "LiLayoutTemplate"
 }
