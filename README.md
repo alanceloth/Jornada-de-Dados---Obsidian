@@ -1,1 +1,0 @@
-# Jornada-de-Dados---Obsidian

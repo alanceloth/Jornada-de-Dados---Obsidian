@@ -1,37 +1,79 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Templates  ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Notas Diárias\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
-      "query": "path:Templates  ",
+      "query": "path:Biblioteca",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 12130406
+      }
+    },
+    {
+      "query": "path:Estudo/Lives  ",
+      "color": {
+        "a": 1,
+        "rgb": 1564368
+      }
+    },
+    {
+      "query": "path:Portifólio  ",
+      "color": {
+        "a": 1,
+        "rgb": 13731098
+      }
+    },
+    {
+      "query": "path:Reuniões  ",
+      "color": {
+        "a": 1,
+        "rgb": 7069003
+      }
+    },
+    {
+      "query": "path:Monitoria  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Estudo/Bootcamps  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Estudo/Workshop  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.4828125,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000004,
-  "close": false
+  "scale": 0.7132754626224427,
+  "close": true
 }

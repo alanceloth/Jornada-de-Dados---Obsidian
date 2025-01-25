@@ -1,0 +1,13 @@
+[Ebook](https://jornadadedados.alpaclass.com/c/aulas/download/5934f82c-f6ec-4f34-aa5d-4add223960ed)
+- [[Pyenv]]
+- [[Poetry]]
+- [[Git]] & [[GitHub]]
+- Estrutura de pastas
+- Arquivos comuns
+- [[Pytest]]
+- Padrão de Código
+- [[Mkdocs]]
+- [[Taskipy]]
+- [[Pre-commit]]
+- [[Github Actions]] ([[CI-CD]])
+- Readme
