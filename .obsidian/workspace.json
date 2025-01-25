@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1415f6243f24aa5d",
+        "id": "ac7312fc04742510",
         "type": "tabs",
         "children": [
           {
-            "id": "304da805b2159269",
+            "id": "0b27867d155f319b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-24 23.55.52.excalidraw.md"
+                "file": "Notas Diárias/2025-01-25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-24 23.55.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-01-25"
             }
           }
         ]
@@ -214,15 +216,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "304da805b2159269",
+  "active": "0b27867d155f319b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-24 23.55.52.excalidraw.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
+    "Notas Diárias/2025-01-25.md",
+    "Excalidraw/Fluxo de ideias.md",
+    "Templates/Daily Note.md",
+    "Untitled Kanban.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Excalidraw",
     "Notas Diárias/2025-01-24.md",
     "Biblioteca/Ferramentas e Metodologias/Métodologias/CI-CD.md",
     "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/TODO/Enquetes.md",
     "Estudo/Lives/Dez-24/Construindo um Pipeline ETL em Tempo Real com Kafka, PostgreSQL e Streamlit.md",
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Streamlit.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Postgres.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Kafka.md",
@@ -242,10 +249,7 @@
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Big Query.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Airflow.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/dbt.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/docker.md",
     "Estudo/Lives/Jul-24",
-    "CI/CD 1.md",
-    "CI/CD.md",
     "CI",
     "Biblioteca/Ferramentas e Metodologias/Tecnologia",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta",

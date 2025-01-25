@@ -8,3 +8,4 @@
 - Importância dos links, backlinks, tags, referencias
 
 [[Lives Youtube]]
+[[Fluxo de ideias]]
