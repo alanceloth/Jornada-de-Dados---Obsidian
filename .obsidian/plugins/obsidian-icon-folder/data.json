@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencilRuler",
+      "LiExcalidrawIcon",
       "LiWrench",
       "LiLayoutTemplate",
-      "LiTemplaterIcon",
-      "LiHandshake",
-      "LiTrophy"
+      "LiTemplaterIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Portifólio": "LiTrophy",
   "Reuniões": "LiHandshake",
   "Templates": "LiLayoutTemplate",
-  "Biblioteca/Ferramentas e Metodologias": "LiWrench"
+  "Biblioteca/Ferramentas e Metodologias": "LiWrench",
+  "Excalidraw": "LiPencilRuler"
 }

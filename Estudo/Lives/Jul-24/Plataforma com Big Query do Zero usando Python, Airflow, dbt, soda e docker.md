@@ -6,3 +6,6 @@
 - [[dbt]]
 - [[soda]]
 - [[docker]]
+
+
+[[Lives Youtube]]

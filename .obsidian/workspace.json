@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "004e168710ba828a",
+        "id": "1415f6243f24aa5d",
         "type": "tabs",
         "children": [
           {
-            "id": "67df6987481793d0",
+            "id": "304da805b2159269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Estudo/Lives/Lives Youtube.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-01-24 23.55.52.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Lives Youtube"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-24 23.55.52.excalidraw"
             }
           }
         ]
@@ -216,43 +214,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "67df6987481793d0",
+  "active": "304da805b2159269",
   "lastOpenFiles": [
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/S3.md",
+    "Excalidraw/Drawing 2025-01-24 23.55.52.excalidraw.md",
+    "Excalidraw",
+    "Notas Diárias/2025-01-24.md",
+    "Biblioteca/Ferramentas e Metodologias/Métodologias/CI-CD.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/TODO/Enquetes.md",
+    "Estudo/Lives/Dez-24/Construindo um Pipeline ETL em Tempo Real com Kafka, PostgreSQL e Streamlit.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
+    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Streamlit.md",
+    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Postgres.md",
+    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Kafka.md",
+    "Estudo/Lives/Dez-24",
+    "Estudo/Lives/Lives Youtube.md",
     "Estudo/Lives/Out-24/Como sair do ZERO no AIRBYTE - Como extrair dados de forma rápida.md",
+    "Estudo/Lives/Jul-24/Plataforma com Big Query do Zero usando Python, Airflow, dbt, soda e docker.md",
+    "Biblioteca/Ferramentas e Metodologias/Ferramenta/S3.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/IAM.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/EC2.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/AWS.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Airbyte.md",
     "Estudo/Lives/Out-24",
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/TODO/Enquetes.md",
-    "Notas Diárias/2025-01-24.md",
     "Estudo/Workshop/Como estruturar o seu projeto de dados do zero.md",
     "Estudo/Workshop/Workshop Git e Github.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/soda.md",
-    "Estudo/Lives/Jul-24/Plataforma com Big Query do Zero usando Python, Airflow, dbt, soda e docker.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Big Query.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Airflow.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/dbt.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/docker.md",
     "Estudo/Lives/Jul-24",
-    "Biblioteca/Ferramentas e Metodologias/Métodologias/CI-CD.md",
     "CI/CD 1.md",
     "CI/CD.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Github Actions.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Pre-commit.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Taskipy.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Mkdocs.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Pytest.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Poetry.md",
     "CI",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Pyenv.md",
     "Biblioteca/Ferramentas e Metodologias/Tecnologia",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta",
     "Biblioteca/Ferramentas e Metodologias/Métodologias",
     "Biblioteca",
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian",
-    "Biblioteca/Ferramentas e Metodologias",
-    "Estudo/Lives/Jan-25"
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian"
   ]
 }
