@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "51e2360a0d96ec01",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "121ffa5b7cd0a894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Diárias/2025-01-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-26"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +216,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "121ffa5b7cd0a894",
+  "active": "264710b4d8a670e6",
   "lastOpenFiles": [
     "Templates/Daily Note.md",
+    "Notas Diárias/2025-01-26.md",
     "Notas Diárias/2025-01-25.md",
     "Biblioteca/Ferramentas e Metodologias/Métodologias/CRUD.md",
-    "Notas Diárias/2025-01-26.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/GCP.md",
     "Atkinson-O Caibalion - Edição Definitiva e Comentada.md",
     "Portifólio/Trigger Manager.md",
