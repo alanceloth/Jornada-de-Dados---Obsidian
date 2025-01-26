@@ -1,5 +1,5 @@
 {
-  "globalQuery": "",
+  "globalQuery": "```tasks\npath regex does not match /^Templates/\n```",
   "globalFilter": "",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
