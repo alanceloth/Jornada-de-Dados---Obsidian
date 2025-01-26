@@ -7,7 +7,7 @@ tags: [daily, zettelkasten, <% tp.date.now("YYYY-MM-DD") %>]
 # 📅 <% tp.date.now("dddd, D MMMM YYYY") %>
 
 ## 📝 **Tarefas do Dia**
-#todo
+#task
 - [ ] Tarefa 1
 - [ ] Tarefa 2
 - [ ] Tarefa 3

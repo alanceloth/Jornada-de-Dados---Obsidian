@@ -1,5 +1,5 @@
 {
-  "globalQuery": "```tasks\npath regex does not match Templates/\n```",
+  "globalQuery": "```tasks\n(tags include #task) AND NOT (path includes Templates)\n```",
   "globalFilter": "",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
