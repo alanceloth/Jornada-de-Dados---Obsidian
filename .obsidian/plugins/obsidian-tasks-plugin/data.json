@@ -1,6 +1,6 @@
 {
-  "globalQuery": "```tasks\npath regex does not match %^Templates%\n```",
-  "globalFilter": "-path:Templates",
+  "globalQuery": "```tasks\npath regex does not match Templates/\n```",
+  "globalFilter": "",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": false,
