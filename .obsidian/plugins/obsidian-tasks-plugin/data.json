@@ -1,6 +1,6 @@
 {
   "globalQuery": "```tasks\n(tags include #task) AND NOT (path includes Templates)\n```",
-  "globalFilter": "",
+  "globalFilter": "#task",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": false,
