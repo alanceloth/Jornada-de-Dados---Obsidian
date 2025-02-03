@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8012c034b88c1844",
+        "id": "7c11b5971312c2be",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce99265dbb18e0a",
+            "id": "5c679a5e9fdf40c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Diárias/2025-01-28.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-28"
-            }
-          },
-          {
-            "id": "22f5284f9f5f6d11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-28 13.29.24.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +212,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "22f5284f9f5f6d11",
+  "active": "5c679a5e9fdf40c6",
   "lastOpenFiles": [
+    "Notas Diárias/2025-01-28.md",
+    "Notas Diárias/2025-01-29.md",
+    "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
     "Pasted Image 20250128134346_518.png",
     "Icone.png",
-    "Notas Diárias/2025-01-28.md",
-    "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
     "Notas Diárias/2025-01-26.md",
     "Templates/Daily Note.md",
     "Portifólio/Trigger Manager.md",
