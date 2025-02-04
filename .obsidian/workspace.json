@@ -11,10 +11,14 @@
             "id": "5c679a5e9fdf40c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Note"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -214,6 +219,7 @@
   },
   "active": "5c679a5e9fdf40c6",
   "lastOpenFiles": [
+    "Notas Diárias/2025-02-03.md",
     "Notas Diárias/2025-01-28.md",
     "Notas Diárias/2025-01-29.md",
     "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
@@ -245,7 +251,6 @@
     "Estudo/Lives/Dez-24/Construindo um Pipeline ETL em Tempo Real com Kafka, PostgreSQL e Streamlit.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Streamlit.md",
     "Biblioteca/Ferramentas e Metodologias/Ferramenta/Postgres.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Kafka.md",
     "Estudo/Lives/Dez-24",
     "Estudo/Lives/Out-24",
     "Estudo/Lives/Jul-24",
