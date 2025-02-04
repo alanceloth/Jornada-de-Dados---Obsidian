@@ -20,10 +20,10 @@
 ### **3. O que é o Obsidian? 
 
 - [x] **Visão geral** (Markdown, offline, personalização)
-- [ ] **Principais recursos**
-    - [ ] Links e backlinks
-    - [ ] Tags e referências
-    - [ ] Plugins essenciais
+- [x] **Principais recursos**
+    - [x] Links e backlinks
+    - [x] Tags e referências
+    - [x] Plugins essenciais
 
 ---
 
@@ -39,11 +39,11 @@
 
 ### **5. Como eu uso o Obsidian**
 
-- [ ] **Meu setup e fluxo de anotações**
-- [ ] **Demonstração prática**
-    - [ ] Criando uma nota
-    - [ ] Conectando ideias com backlinks
-    - [ ] Uso de templates e plugins
+- [x] **Meu setup e fluxo de anotações**
+- [x] **Demonstração prática**
+    - [x] Criando uma nota
+    - [x] Conectando ideias com backlinks
+    - [x] Uso de templates e plugins
 
 ---
 
