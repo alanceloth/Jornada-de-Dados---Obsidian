@@ -8,20 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8a5578cef48b266",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Resultado Pool LinkedIn.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Resultado Pool LinkedIn"
-            }
-          },
-          {
             "id": "5878c01aa95415e3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -29,8 +18,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Organização de projetos e ideias usando Obsidian"
+            }
+          },
+          {
+            "id": "f8a5578cef48b266",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Resultado Pool LinkedIn.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Resultado Pool LinkedIn"
             }
           }
         ]
@@ -229,12 +233,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f8a5578cef48b266",
+  "active": "5878c01aa95415e3",
   "lastOpenFiles": [
+    "Excalidraw/Resultado Pool LinkedIn.md",
     "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
     "Portifólio/Trigger Manager.md",
     "Biblioteca/Ferramentas e Metodologias/Métodologias/CRUD.md",
-    "Excalidraw/Resultado Pool LinkedIn.md",
     "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
     "Images/Pasted Image 20250204134012_895.png",
     "Images/Pasted Image 20250204134004_553.png",

@@ -1,4 +1,4 @@
-### **1. Abertura e Introdução (5 min)**
+### **1. Abertura e Introdução**
 
 - [ ] Objetivo da live e temas que serão abordados
 - [ ] Resultados das enquetes
@@ -6,7 +6,7 @@
 
 ---
 
-### **2. O Hábito de Anotar (10 min)**
+### **2. O Hábito de Anotar 
 
 - [ ] **Por que criar esse hábito?**
     - [ ] Evitar perda de insights
@@ -17,7 +17,7 @@
 
 ---
 
-### **3. O que é o Obsidian? (10 min)**
+### **3. O que é o Obsidian? 
 
 - [ ] **Visão geral** (Markdown, offline, personalização)
 - [ ] **Principais recursos**
@@ -27,7 +27,7 @@
 
 ---
 
-### **4. Métodos de Gestão de Ideias (10 min)**
+### **4. Métodos de Gestão de Ideias 
 
 - [ ] **Principais métodos e quando usar cada um**
     - [ ] **Zettelkasten** → Rede de ideias conectadas
@@ -37,7 +37,7 @@
 
 ---
 
-### **5. Como eu uso o Obsidian (15 min)**
+### **5. Como eu uso o Obsidian**
 
 - [ ] **Meu setup e fluxo de anotações**
 - [ ] **Demonstração prática**
@@ -47,7 +47,7 @@
 
 ---
 
-### **6. Aplicando o Método Zettelkasten (15 min)**
+### **6. Aplicando o Método Zettelkasten 
 
 - [ ] Explicação resumida do método
 - [ ] Como implemento no Obsidian
@@ -55,14 +55,14 @@
 
 ---
 
-### **7. Estrutura Analítica de Projeto (EAP) no Linear (15 min)**
+### **7. Estrutura Analítica de Projeto (EAP) no Linear
 
 - [ ] O que é uma EAP e por que usar?
 - [ ] Demonstração prática no **Linear**
 
 ---
 
-### **8. Conclusão e Encerramento (10 min)**
+### **8. Conclusão e Encerramento**
 
 - [ ] Resumo dos principais pontos
 - [ ] Dicas finais
@@ -70,6 +70,7 @@
 
 
 
+### Referencias
 
 [Link Apresentação pptx](https://gamma.app/docs/Apresentacao-Metodos-de-organizacao-de-ideias-e-projetos-fe2y2iccxh627aq)
 
