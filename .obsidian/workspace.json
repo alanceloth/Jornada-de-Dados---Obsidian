@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7c11b5971312c2be",
+        "id": "050abd72e7fe1f38",
         "type": "tabs",
         "children": [
           {
-            "id": "5c679a5e9fdf40c6",
+            "id": "f8a5578cef48b266",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Resultado Pool LinkedIn.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Resultado Pool LinkedIn"
+            }
+          },
+          {
+            "id": "5878c01aa95415e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note"
+              "title": "Organização de projetos e ideias usando Obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,16 +230,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c679a5e9fdf40c6",
+  "active": "5878c01aa95415e3",
   "lastOpenFiles": [
+    "Excalidraw/Resultado Pool LinkedIn.md",
+    "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
+    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
+    "Images/Pasted Image 20250204134012_895.png",
+    "Images/Pasted Image 20250204134004_553.png",
+    "Images/Pasted Image 20250204133940_620.png",
+    "Images/Pasted Image 20250204133926_340.png",
+    "Images/Pasted Image 20250204133909_820.png",
+    "Images/Pasted Image 20250204133823_023.png",
+    "Images/Pasted Image 20250204133812_824.png",
+    "Images/Pasted image 20250204133633.png",
+    "Images",
+    "Notas Diárias/2025-02-04.md",
+    "Imagens e Anexos/Icone.png",
+    "Imagens e Anexos",
+    "Imagens e Anexos/Pasted Image 20250128134346_518.png",
+    "Templates/Daily Note.md",
     "Notas Diárias/2025-02-03.md",
     "Notas Diárias/2025-01-28.md",
     "Notas Diárias/2025-01-29.md",
-    "Excalidraw/Drawing 2025-01-28 13.29.24.excalidraw.md",
-    "Pasted Image 20250128134346_518.png",
-    "Icone.png",
     "Notas Diárias/2025-01-26.md",
-    "Templates/Daily Note.md",
     "Portifólio/Trigger Manager.md",
     "Tasks Plugin - Review and check your Statuses 2025-01-26 02-25-50.md",
     "Notas Diárias/2025-01-25.md",
@@ -240,24 +266,18 @@
     "Kindle/Montes-Introdução ao Gerenciamento de Projetos.md",
     "Kindle/Souza-Entenda Sobre Indústria 4.0.md",
     "Kindle",
-    "Estudo/Lives/Jan-25/Organização de projetos e ideias usando Obsidian/Organização de projetos e ideias usando Obsidian.md",
     "Notas Diárias/2025-01-24.md",
-    "Excalidraw/Fluxo de ideias.md",
     "Untitled Kanban.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw",
     "Biblioteca/Ferramentas e Metodologias/Métodologias/CI-CD.md",
     "Estudo/Lives/Dez-24/Construindo um Pipeline ETL em Tempo Real com Kafka, PostgreSQL e Streamlit.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Streamlit.md",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta/Postgres.md",
     "Estudo/Lives/Dez-24",
     "Estudo/Lives/Out-24",
     "Estudo/Lives/Jul-24",
     "CI",
     "Biblioteca/Ferramentas e Metodologias/Tecnologia",
-    "Biblioteca/Ferramentas e Metodologias/Ferramenta",
-    "Biblioteca/Ferramentas e Metodologias/Métodologias",
-    "Biblioteca"
+    "Biblioteca/Ferramentas e Metodologias/Ferramenta"
   ]
 }
