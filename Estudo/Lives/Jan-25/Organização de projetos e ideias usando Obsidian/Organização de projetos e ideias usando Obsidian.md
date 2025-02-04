@@ -1,19 +1,19 @@
 ### **1. Abertura e Introdução**
 
-- [ ] Objetivo da live e temas que serão abordados
-- [ ] Resultados das enquetes
-- [ ] Importância de organizar ideias e projetos
+- [x] Objetivo da live e temas que serão abordados
+- [x] Resultados das enquetes
+- [x] Importância de organizar ideias e projetos
 
 ---
 
 ### **2. O Hábito de Anotar 
 
-- [ ] **Por que criar esse hábito?**
-    - [ ] Evitar perda de insights
-    - [ ] Facilitar revisão e aprendizado
-- [ ] **Quanto tempo leva para formar um hábito?**
-    - [ ] Estudo de Phillippa Lally (média de 66 dias)
-- [ ] **Ferramentas para ajudar na rotina de anotações**
+- [x] **Por que criar esse hábito?**
+    - [x] Evitar perda de insights
+    - [x] Facilitar revisão e aprendizado
+- [x] **Quanto tempo leva para formar um hábito?**
+    - [x] Estudo de Phillippa Lally (média de 66 dias)
+- [x] **Ferramentas para ajudar na rotina de anotações**
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-### **7. Estrutura Analítica de Projeto (EAP) no Linear
+### **7. Estrutura Analítica de Projeto (EAP) no XXXX
 
 - [ ] O que é uma EAP e por que usar?
 - [ ] Demonstração prática no **Linear**
