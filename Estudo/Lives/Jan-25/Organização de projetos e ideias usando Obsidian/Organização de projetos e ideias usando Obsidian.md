@@ -19,7 +19,7 @@
 
 ### **3. O que é o Obsidian? 
 
-- [ ] **Visão geral** (Markdown, offline, personalização)
+- [x] **Visão geral** (Markdown, offline, personalização)
 - [ ] **Principais recursos**
     - [ ] Links e backlinks
     - [ ] Tags e referências
