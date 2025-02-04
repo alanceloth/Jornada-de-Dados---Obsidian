@@ -5,12 +5,11 @@ tags:
   - cloudbuild
   - docker
   - crud
-  - liti
   - trigger
   - postgres
   - python
 ---
-Sistema de gestão de [[Triggers]] para a [[Liti Saúde]]
+Projeto [[CRUD]]
 
 Stacks:
 [[Streamlit]]
