@@ -58,15 +58,15 @@
 ### **7. Estrutura Analítica de Projeto (EAP) no Linear
 
 - [x] O que é uma EAP e por que usar?
-- [ ] Demonstração prática no **Linear**
-
+- [x] Demonstração prática no **Linear**
+[[Resultado Pool LinkedIn]]
 ---
 
 ### **8. Conclusão e Encerramento**
 
-- [ ] Resumo dos principais pontos
-- [ ] Dicas finais
-- [ ] Perguntas da audiência
+- [x] Resumo dos principais pontos
+- [x] Dicas finais
+- [x] Perguntas da audiência
 
 
 
