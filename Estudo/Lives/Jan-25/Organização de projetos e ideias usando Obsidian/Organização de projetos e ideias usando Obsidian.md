@@ -57,7 +57,7 @@
 
 ### **7. Estrutura Analítica de Projeto (EAP) no Linear
 
-- [ ] O que é uma EAP e por que usar?
+- [x] O que é uma EAP e por que usar?
 - [ ] Demonstração prática no **Linear**
 
 ---
