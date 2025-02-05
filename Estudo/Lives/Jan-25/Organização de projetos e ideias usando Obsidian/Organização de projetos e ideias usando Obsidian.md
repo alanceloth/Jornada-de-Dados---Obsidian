@@ -29,8 +29,8 @@
 
 ### **4. Métodos de Gestão de Ideias 
 
-- [ ] **Principais métodos e quando usar cada um**
-    - [ ] **Zettelkasten** → Rede de ideias conectadas
+- [x] **Principais métodos e quando usar cada um**
+    - [x] **Zettelkasten** → Rede de ideias conectadas
     - [ ] **PARA Method** → Organização por contexto
     - [ ] **GTD** → Gestão de tarefas e ideias
     - [ ] **Mapas mentais** → Estruturação visual
@@ -49,13 +49,13 @@
 
 ### **6. Aplicando o Método Zettelkasten 
 
-- [ ] Explicação resumida do método
-- [ ] Como implemento no Obsidian
-- [ ] Exemplo prático: criando uma rede de ideias
+- [x] Explicação resumida do método
+- [x] Como implemento no Obsidian
+- [x] Exemplo prático: criando uma rede de ideias
 
 ---
 
-### **7. Estrutura Analítica de Projeto (EAP) no XXXX
+### **7. Estrutura Analítica de Projeto (EAP) no Linear
 
 - [ ] O que é uma EAP e por que usar?
 - [ ] Demonstração prática no **Linear**
